@@ -49,6 +49,8 @@ text.place(x= 200, y=20)
 
 image_label = Label(window)
 
+label = Label(window, text="github : princematin")
+label.place( y=450)
 # buttom
 button = Button(
     window,
